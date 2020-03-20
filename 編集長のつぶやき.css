@@ -164,7 +164,9 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
     writing-mode: vertical-rl;
     -ms-writing-mode: tb-rl;
     text-orientation: upright;
-    position: absolute;right: 5%;
+    position: absolute;
+    right: 5%;
+    top:200px
     overflow-x:scroll;
     width:90%;
     height: 65%;
